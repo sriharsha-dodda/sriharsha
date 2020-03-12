@@ -1,0 +1,95 @@
+{
+    "profiles":[
+        {
+            "basics":{
+                "name":"Rayapa T",
+                "email":"royrayapa@gmail.com",
+                "mobile":"+91 970178318",
+                "imageName":"./superhero.svg"
+            },        
+            "education":[
+                {
+                    "degree":"S.S.C",
+                    "percentage":"99",
+                    "institute":"sri chaitanya"
+                },
+                {
+                    "degree":"Intermediate - (M.P.C)",
+                    "percentage":"99",
+                    "institute":"sri chaitanya junior college"
+                },
+                {
+                    "degree":"B.Tech - (CSE)",
+                    "percentage":"85",
+                    "institute":"VVIT"
+                    
+                }
+            ],
+            "skills":[
+                {
+                    "type":"Programming lanuages",
+                    "values":["C ","C++ ","Java ","Python ","R ","Swift ","Rust ","Kotlin ","FORTRAN "]
+                },
+                {
+                    "type":"Web Technologies",
+                    "values":["HTML","CSS","JavaScript"]
+                },
+                {
+                    "type":"FramWorks and Libraries",
+                    "values":["ReactJS","OpenMP","MPI","CUDA","OpenACC","OpenGl"]
+                },
+                {
+                    "type":"Operating System",
+                    "values":["Linux","Windows"]
+                }
+                
+            ]
+        },
+
+        {
+            "basics":{
+                "name":"Anji Babu",
+                "email":"anjibb@gmail.com",
+                "mobile":"+91 970188318",
+                "imageName":"./bat.svg"
+            },
+            "education":[
+                {
+                    "degree":"S.S.C",
+                    "percentage":"98",
+                    "institute":"Bhashayam"
+                },
+                {
+                    "degree":"Intermediate - (M.P.C)",
+                    "percentage":"97",
+                    "institute":"Bhashayam junior college"
+                },
+                {
+                    "degree":"B.Tech - (CSE)",
+                    "percentage":"88",
+                    "institute":"VVIT"
+                    
+                }
+            ],
+            "skills":[
+                {
+                    "type":"Programming lanuages",
+                    "values":["C","C++","Java","Python","R","Swift","Rust","Kotlin","FORTRAN"]
+                },
+                {
+                    "type":"Web Technologies",
+                    "values":["HTML","CSS","JavaScript"]
+                },
+                {
+                    "type":"FramWorks and Libraries",
+                    "values":["ReactJS","OpenMP","MPI","CUDA","OpenACC","OpenGl"]
+                },
+                {
+                    "type":"Operating System",
+                    "values":["Linux","Windows"]
+                }
+                
+            ]
+        }
+    ]
+}
